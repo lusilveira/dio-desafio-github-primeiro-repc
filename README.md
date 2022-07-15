@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-<h1>Repositório criado para Desafio de Projeto</1>
+<i>Repositório criado para Desafio de Projeto<i>
 
 ##Links Úteis
 [Sintaxe Básico Markdown] (https://markdown.net.br/sintaxe-basica/)
